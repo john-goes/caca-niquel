@@ -1,0 +1,127 @@
+body {
+	background-color: lightgray;
+}
+
+h1 {
+	text-align: center;
+}
+
+a {
+	color: #000000;
+}
+
+a:hover {
+	color: #000000;
+}
+
+#corpo {
+	margin-left: auto;
+	margin-right: auto;
+	width: 700px;
+	height: 500px;
+	background-color: lightblue;
+	border: medium dashed black;
+}
+
+#corpo2 {
+	margin-left: auto;
+	margin-right: auto;
+	width: 700px;
+	height: 1050px;
+	background-color: lightblue;
+	border: medium dashed black;
+}
+
+#tela {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 65px;
+	width: 500px;
+	height: 100px;
+	background-color: white;
+	border: medium solid black;
+}
+
+#botoes {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 85px;
+	width: 460px;
+}
+
+#creditos_txt {
+	margin-left: 80px;
+	margin-top: 30px;
+	font-weight: bold;
+	float: left;
+}
+
+#creditos {
+	clear: left;
+	margin-left: 75px;
+	float: left;
+}
+
+#valor_txt {
+	margin-left: 530px;
+	margin-top: 30px;
+	font-weight: bold;
+}
+
+#valor {
+	margin-left: 560px;
+}
+
+#slot1 {
+	margin-top: 5px;
+	padding-left: 17px;
+	padding-right: 17px;
+	float: left;
+	border-right: thin dashed black;
+	width: 90px;
+	height: 90px;
+	vertical-align: middle;
+}
+
+#slot2 {
+	margin-top: 5px;
+	padding-left: 17px;
+	padding-right: 17px;
+	float: left;
+	border-right: thin dashed black;
+	width: 90px;
+	height: 90px;
+	vertical-align: middle;
+}
+
+#slot3 {
+	margin-top: 5px;
+	padding-left: 17px;
+	padding-right: 17px;
+	float: left;
+	border-right: thin dashed black;
+	width: 90px;
+	height: 90px;
+	vertical-align: middle;
+}
+
+#slot4 {
+	margin-top: 5px;
+	padding-left: 17px;
+	padding-right: 17px;
+	float: left;
+	width: 90px;
+	height: 90px;
+	vertical-align: middle;
+}
+
+#rodapé {
+	margin-left: 113px
+}
+
+#tabela {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-weight: bold;
+}
